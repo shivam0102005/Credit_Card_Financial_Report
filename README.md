@@ -35,11 +35,13 @@ The primary goal of this dashboard is to monitor key performance indicators (KPI
 ## 📸 Dashboard Previews
 
 ### 1. Transaction Report
-![Transaction Report](insert_link_to_your_transaction_image_here.png)
+![Transaction Report]<img width="1235" height="695" alt="Screenshot 2026-03-10 000218" src="https://github.com/user-attachments/assets/331ff56c-81f5-4992-be99-2673aa1791e9" />
+
 *Displays overall revenue, transaction volumes, card category performance, and expenditure types.*
 
 ### 2. Customer Report
-![Customer Report](insert_link_to_your_customer_image_here.png)
+![Customer Report]<img width="1223" height="698" alt="Screenshot 2026-03-10 000302" src="https://github.com/user-attachments/assets/996a79b5-9f69-4c96-b9d7-e21655bc0fea" />
+)
 *Focuses on customer demographics, income groups, age brackets, and occupation-based revenue generation.*
 
 ## 🚀 How to Use
